@@ -1,6 +1,6 @@
 # Curso Segurança da informação com Python
 
-[Estes códigos foram baseados nos códigos apresentados no curso Segurança da informação com Python da Digital Inovation One, ministrado por Bruno de Campos Dias]
+[Estes códigos foram baseados nos códigos apresentados no curso Segurança da informação com Python da Digital Innovation One, ministrado por Bruno de Campos Dias]
 
 - 1.3_Ping.py
 - 2.2_Client_TCP.py
@@ -15,6 +15,5 @@
 - 4.4_Web_Scraping.py
 - 4.5_Web_Crawler.py
 - 5.2_PhoneNumber.py
-- 5.3_Ocultador_de_Arquivo_Windows.py
 - 5.4_Ip_Externo_json.py
 - 5.5_tkinter_Open_Browser+.py
