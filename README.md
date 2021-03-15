@@ -8,10 +8,10 @@
 - 2.4_Server_UDP.py
 - 3.2_Gerador_Senhas.py
 - 3.3_Comparador_hash.py
-- 3.4_Ips.py
+- 3.4_IpAddress.py
 - 3.4_Threads_Corrida.py
-- 4.2_Gerador_hashes.py
-- 4.3_Gerador_Wordlists.py
+- 4.2_Gerador_hashes_-_with_dictionary.py
+- 4.3_Gerador_Wordlists_-_with_itertools.py
 - 4.4_Web_Scraping.py
 - 4.5_Web_Crawler.py
 - 5.2_PhoneNumber.py
