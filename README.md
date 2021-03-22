@@ -13,8 +13,8 @@
 - [3.4_Threads_Corrida.py](https://github.com/jonathanAmancioSales/Information_Security_with_Python/blob/main/Codes/3.4_Threads_Corrida.py)
 - [4.2_Gerador_hashes_-_with_dictionary.py](https://github.com/jonathanAmancioSales/Information_Security_with_Python/blob/main/Codes/4.2_Gerador_hashes_-_with_dictionary.py)
 - [4.3_Gerador_Wordlists_-_with_itertools.py](https://github.com/jonathanAmancioSales/Information_Security_with_Python/blob/main/Codes/4.3_Gerador_Wordlists_-_with_itertools.py)
-- 4.4_Web_Scraping.py
-- 4.5_Web_Crawler.py
+- [4.4_Web_Scraping.py](https://github.com/jonathanAmancioSales/Information_Security_with_Python/blob/main/Codes/4.4_Web_Scraping.py)
+- [4.5_Web_Crawler.py](https://github.com/jonathanAmancioSales/Information_Security_with_Python/blob/main/Codes/4.5_Web_Crawler.py)
 - [5.2_PhoneNumber.py](https://github.com/jonathanAmancioSales/Information_Security_with_Python/blob/main/Codes/5.2_PhoneNumber.py)
-- 5.4_Ip_Externo_json.py
-- 5.5_tkinter_Open_Browser+.py
+- [5.4_Ip_Externo_json.py](https://github.com/jonathanAmancioSales/Information_Security_with_Python/blob/main/Codes/5.4_Ip_Externo_json.py)
+- [5.5_tkinter_Open_Browser+.py](https://github.com/jonathanAmancioSales/Information_Security_with_Python/blob/main/Codes/5.5_tkinter_Open_Browser+.py)
