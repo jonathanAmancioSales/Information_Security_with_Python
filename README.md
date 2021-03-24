@@ -1,7 +1,7 @@
 # Curso Segurança da informação com Python
 ![Python](https://img.icons8.com/dusk/2x/python.png)
 
-[Estes códigos foram baseados nos códigos apresentados no curso Segurança da informação com Python da Digital Innovation One, ministrado por Bruno de Campos Dias]
+[Estes códigos foram baseados nos códigos apresentados no curso Segurança da informação com Python da [Digital Innovation One](https://web.digitalinnovation.one/home), ministrado por [Bruno de Campos Dias](https://www.linkedin.com/in/brunodecamposdias/)]
 
 - [1.3_Ping.py](https://github.com/jonathanAmancioSales/Information_Security_with_Python/blob/main/Codes/1.3_Ping.py)
 - [2.2_Client_TCP.py](https://github.com/jonathanAmancioSales/Information_Security_with_Python/blob/main/Codes/2.2_Client_TCP.py)
